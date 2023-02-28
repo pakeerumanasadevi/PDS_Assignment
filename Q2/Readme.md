@@ -1,6 +1,6 @@
 # Question 2
 
-From the Given Table, we design the three stages of reproducible workflow and then Performed Five Different Data Visualization Tasks on the Student Performance Dataset
+From the Given Table, designing the three stages of reproducible workflow and then Performed Five Different Data Visualization Tasks on the Student Performance Dataset
 
 # Stage I - Data Collection
 
